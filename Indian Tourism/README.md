@@ -1,4 +1,4 @@
-# Indina Tourism
+# Indian Tourism
 
 ![img](screenshorts/img1.png)
 ![img](screenshorts/img2.png)
